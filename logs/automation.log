@@ -1,0 +1,66 @@
+2025-04-05 12:27:34 INFO  TC003_LoginDDT:19 - ***********login TC003_LoginDDT started***********
+2025-04-05 12:27:34 INFO  TC003_LoginDDT:22 - Clicking on 'My Account'
+2025-04-05 12:27:34 INFO  TC003_LoginDDT:24 - 'My Account' clicked successfully
+2025-04-05 12:27:36 INFO  TC003_LoginDDT:71 - ***********login TC003_LoginDDT ended***********
+2025-04-05 12:27:36 INFO  TC003_LoginDDT:19 - ***********login TC003_LoginDDT started***********
+2025-04-05 12:27:36 INFO  TC003_LoginDDT:22 - Clicking on 'My Account'
+2025-04-05 12:27:36 INFO  TC003_LoginDDT:24 - 'My Account' clicked successfully
+2025-04-05 12:27:37 INFO  TC003_LoginDDT:19 - ***********login TC003_LoginDDT started***********
+2025-04-05 12:27:37 INFO  TC003_LoginDDT:22 - Clicking on 'My Account'
+2025-04-05 12:27:37 INFO  TC003_LoginDDT:24 - 'My Account' clicked successfully
+2025-04-05 12:27:47 INFO  TC003_LoginDDT:19 - ***********login TC003_LoginDDT started***********
+2025-04-05 12:27:47 INFO  TC003_LoginDDT:22 - Clicking on 'My Account'
+2025-04-05 12:27:47 INFO  TC003_LoginDDT:24 - 'My Account' clicked successfully
+2025-04-05 12:27:58 INFO  TC003_LoginDDT:19 - ***********login TC003_LoginDDT started***********
+2025-04-05 12:27:58 INFO  TC003_LoginDDT:22 - Clicking on 'My Account'
+2025-04-05 12:27:58 INFO  TC003_LoginDDT:24 - 'My Account' clicked successfully
+2025-04-05 12:31:10 INFO  TC003_LoginDDT:19 - ***********login TC003_LoginDDT started***********
+2025-04-05 12:31:10 INFO  TC003_LoginDDT:22 - Clicking on 'My Account'
+2025-04-05 12:31:10 INFO  TC003_LoginDDT:24 - 'My Account' clicked successfully
+2025-04-05 12:31:12 INFO  TC003_LoginDDT:71 - ***********login TC003_LoginDDT ended***********
+2025-04-05 12:31:12 INFO  TC003_LoginDDT:19 - ***********login TC003_LoginDDT started***********
+2025-04-05 12:31:12 INFO  TC003_LoginDDT:22 - Clicking on 'My Account'
+2025-04-05 12:31:12 INFO  TC003_LoginDDT:24 - 'My Account' clicked successfully
+2025-04-05 12:31:14 INFO  TC003_LoginDDT:19 - ***********login TC003_LoginDDT started***********
+2025-04-05 12:31:14 INFO  TC003_LoginDDT:22 - Clicking on 'My Account'
+2025-04-05 12:31:14 INFO  TC003_LoginDDT:24 - 'My Account' clicked successfully
+2025-04-05 12:31:24 INFO  TC003_LoginDDT:19 - ***********login TC003_LoginDDT started***********
+2025-04-05 12:31:24 INFO  TC003_LoginDDT:22 - Clicking on 'My Account'
+2025-04-05 12:31:24 INFO  TC003_LoginDDT:24 - 'My Account' clicked successfully
+2025-04-05 12:31:34 INFO  TC003_LoginDDT:19 - ***********login TC003_LoginDDT started***********
+2025-04-05 12:31:34 INFO  TC003_LoginDDT:22 - Clicking on 'My Account'
+2025-04-05 12:31:34 INFO  TC003_LoginDDT:24 - 'My Account' clicked successfully
+2025-04-05 12:36:58 INFO  TC003_LoginDDT:19 - ***********login TC003_LoginDDT started***********
+2025-04-05 12:36:58 INFO  TC003_LoginDDT:22 - Clicking on 'My Account'
+2025-04-05 12:36:58 INFO  TC003_LoginDDT:24 - 'My Account' clicked successfully
+2025-04-05 12:37:00 INFO  TC003_LoginDDT:71 - ***********login TC003_LoginDDT ended***********
+2025-04-05 12:37:00 INFO  TC003_LoginDDT:19 - ***********login TC003_LoginDDT started***********
+2025-04-05 12:37:00 INFO  TC003_LoginDDT:22 - Clicking on 'My Account'
+2025-04-05 12:37:00 INFO  TC003_LoginDDT:24 - 'My Account' clicked successfully
+2025-04-05 12:37:02 INFO  TC003_LoginDDT:19 - ***********login TC003_LoginDDT started***********
+2025-04-05 12:37:02 INFO  TC003_LoginDDT:22 - Clicking on 'My Account'
+2025-04-05 12:37:02 INFO  TC003_LoginDDT:24 - 'My Account' clicked successfully
+2025-04-05 12:39:51 INFO  TC001_AccountRegistrationTest:17 - **** Starting of TC001_AccountRegistrationTest***
+2025-04-05 12:39:51 INFO  TC001_AccountRegistrationTest:20 - Clicked on MyAccount
+2025-04-05 12:39:51 INFO  TC001_AccountRegistrationTest:22 - Clicked on register
+2025-04-05 12:39:51 INFO  TC001_AccountRegistrationTest:25 - Providing customer details
+2025-04-05 12:39:53 INFO  TC001_AccountRegistrationTest:39 - Validation expected message
+2025-04-05 12:39:53 INFO  TC001_AccountRegistrationTest:47 - *********Test completed**********
+2025-04-05 12:39:55 INFO  TC002_LoginTest:17 - *********** Starting TC_002_LoginTest*********
+2025-04-05 12:39:57 INFO  TC002_LoginTest:43 - ****Finished TC_002_LoginTest
+2025-04-05 12:40:00 INFO  TC003_LoginDDT:19 - ***********login TC003_LoginDDT started***********
+2025-04-05 12:40:00 INFO  TC003_LoginDDT:22 - Clicking on 'My Account'
+2025-04-05 12:40:00 INFO  TC003_LoginDDT:24 - 'My Account' clicked successfully
+2025-04-05 12:40:06 INFO  TC003_LoginDDT:71 - ***********login TC003_LoginDDT ended***********
+2025-04-05 12:40:06 INFO  TC003_LoginDDT:19 - ***********login TC003_LoginDDT started***********
+2025-04-05 12:40:06 INFO  TC003_LoginDDT:22 - Clicking on 'My Account'
+2025-04-05 12:40:06 INFO  TC003_LoginDDT:24 - 'My Account' clicked successfully
+2025-04-05 12:40:08 INFO  TC003_LoginDDT:19 - ***********login TC003_LoginDDT started***********
+2025-04-05 12:40:08 INFO  TC003_LoginDDT:22 - Clicking on 'My Account'
+2025-04-05 12:40:08 INFO  TC003_LoginDDT:24 - 'My Account' clicked successfully
+2025-04-05 12:40:18 INFO  TC003_LoginDDT:19 - ***********login TC003_LoginDDT started***********
+2025-04-05 12:40:18 INFO  TC003_LoginDDT:22 - Clicking on 'My Account'
+2025-04-05 12:40:18 INFO  TC003_LoginDDT:24 - 'My Account' clicked successfully
+2025-04-05 12:40:28 INFO  TC003_LoginDDT:19 - ***********login TC003_LoginDDT started***********
+2025-04-05 12:40:28 INFO  TC003_LoginDDT:22 - Clicking on 'My Account'
+2025-04-05 12:40:28 INFO  TC003_LoginDDT:24 - 'My Account' clicked successfully
