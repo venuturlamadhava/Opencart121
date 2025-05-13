@@ -70,3 +70,24 @@
 2025-04-06 13:21:08 INFO  TC003_LoginDDT:19 - ***********login TC003_LoginDDT started***********
 2025-04-06 13:21:08 INFO  TC003_LoginDDT:22 - Clicking on 'My Account'
 2025-04-06 13:21:08 INFO  TC003_LoginDDT:24 - 'My Account' clicked successfully
+2025-04-23 08:30:49 INFO  TC001_AccountRegistrationTest:17 - **** Starting of TC001_AccountRegistrationTest***
+2025-04-23 08:30:50 INFO  TC001_AccountRegistrationTest:20 - Clicked on MyAccount
+2025-04-23 08:30:51 INFO  TC001_AccountRegistrationTest:22 - Clicked on register
+2025-04-23 08:30:51 INFO  TC001_AccountRegistrationTest:25 - Providing customer details
+2025-04-23 08:30:53 INFO  TC001_AccountRegistrationTest:39 - Validation expected message
+2025-04-23 08:30:53 INFO  TC001_AccountRegistrationTest:47 - *********Test completed**********
+2025-04-23 08:30:56 INFO  TC002_LoginTest:17 - *********** Starting TC_002_LoginTest*********
+2025-04-23 08:30:59 INFO  TC002_LoginTest:43 - ****Finished TC_002_LoginTest
+2025-04-23 08:31:04 INFO  TC003_LoginDDT:19 - ***********login TC003_LoginDDT started***********
+2025-04-23 08:31:04 INFO  TC003_LoginDDT:22 - Clicking on 'My Account'
+2025-04-23 08:31:04 INFO  TC003_LoginDDT:24 - 'My Account' clicked successfully
+2025-04-23 08:31:06 INFO  TC003_LoginDDT:71 - ***********login TC003_LoginDDT ended***********
+2025-04-23 08:31:06 INFO  TC003_LoginDDT:19 - ***********login TC003_LoginDDT started***********
+2025-04-23 08:31:06 INFO  TC003_LoginDDT:22 - Clicking on 'My Account'
+2025-04-23 08:31:06 INFO  TC003_LoginDDT:24 - 'My Account' clicked successfully
+2025-04-23 08:31:09 INFO  TC003_LoginDDT:19 - ***********login TC003_LoginDDT started***********
+2025-04-23 08:31:09 INFO  TC003_LoginDDT:22 - Clicking on 'My Account'
+2025-04-23 08:31:09 INFO  TC003_LoginDDT:24 - 'My Account' clicked successfully
+2025-04-23 08:31:19 INFO  TC003_LoginDDT:19 - ***********login TC003_LoginDDT started***********
+2025-04-23 08:31:19 INFO  TC003_LoginDDT:22 - Clicking on 'My Account'
+2025-04-23 08:31:19 INFO  TC003_LoginDDT:24 - 'My Account' clicked successfully
